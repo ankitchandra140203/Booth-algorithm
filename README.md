@@ -1,4 +1,4 @@
-# Booth algorithm
+# Booth algorithm implementation in verilog 
  Multiplication of two binary numbers can be implemented by
 
  
